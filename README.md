@@ -29,3 +29,4 @@ The training process involves K-fold cross-validation to ensure model robustness
 
 ## Evaluation
 The best model is selected based on the validation loss. The script evaluates the model's performance by predicting the target vector and comparing it to the actual game vector data.
+
